@@ -6,6 +6,6 @@ Creating a new branch is quick and simple.
 Build a new branch dev.
 This is a bug test.
 
-Creating a new branch is quick and simple.
+Creating a new branch is quick & simple.
 
 
