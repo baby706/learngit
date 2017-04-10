@@ -9,3 +9,4 @@ This is not a bug test.
 Creating a new branch are dsfew fds quick & simple.
 a = 1.
 b = 2.
+c = 3.
