@@ -7,5 +7,5 @@ Build a new branch dev.
 This is a bug test.
 
 Creating a new branch are dsfew fds quick & simple.
-a = 1;
-
+a = 1.
+b = 2.
